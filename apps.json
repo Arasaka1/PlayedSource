@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.5",
+                    "date": "2024-12-28T19:00:00-00:00",
+                    "localizedDescription": "Critical Fixes & UI Restoration\n\n• Fixed: Restored 'Add to Library' buttons in Discover view\n• Fixed: Steam 'Invalid App ID' error (improved data resilience)\n• Fixed: HLTB search not working (updated request format)\n• Improved: Hero animation resilience\n• UI: Integrated status controls in hero header",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.5/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.4",
                     "date": "2024-12-28T18:15:00-00:00",
                     "localizedDescription": "Smarter AI & Visual Polish\n\n• Conversational AI: Greetings, recommendations, game search, time-aware responses\n• Hero Header: Clear image at top fading to blur, pull-down to dismiss\n• Steam Fix: Reviews now load properly (fixed type mismatch)\n• Synced Views: Library and Discover now behave identically\n• 11/10 Rating: Special rating option restored\n• AI Glass Effect: Liquid glass styling on input and button",
