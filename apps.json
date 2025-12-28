@@ -1,0 +1,47 @@
+{
+    "name": "Played Apps",
+    "identifier": "com.played.source",
+    "subtitle": "Game Tracker for iOS",
+    "description": "A personal app source for the Played game tracker app.",
+    "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
+    "headerURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/header.png",
+    "website": "https://github.com/Arasaka1/PlayedSource",
+    "tintColor": "#6366F1",
+    "featuredApps": [
+        "com.played.app"
+    ],
+    "apps": [
+        {
+            "name": "Played",
+            "bundleIdentifier": "com.played.app",
+            "developerName": "Arasaka",
+            "subtitle": "Track your gaming journey",
+            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync\n• Pull-to-refresh crack status\n• Beautiful iOS 26 design",
+            "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
+            "tintColor": "#6366F1",
+            "category": "utilities",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.4.0",
+                    "buildVersion": "1",
+                    "marketingVersion": "1.4.0",
+                    "date": "2024-12-28",
+                    "localizedDescription": "• Custom list integration with backups\n• Steam reviews fix\n• Auto cover refresh for imported games\n• Pull-to-refresh crack status in Backlog\n• iOS 26 liquid glass styling",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.4.0/Played.ipa",
+                    "size": 5000000,
+                    "minOSVersion": "17.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "Used to save game screenshots"
+                }
+            }
+        }
+    ],
+    "news": []
+}
