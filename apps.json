@@ -13,8 +13,8 @@
             "versions": [
                 {
                     "version": "1.6.8",
-                    "date": "2024-12-28T21:24:00-00:00",
-                    "localizedDescription": "Sheet Presentation & UI Polish\n\n• UNIFIED: Playing & Backlog now use sheet presentation (like Discover)\n• NEW: iOS 26 liquid glass X button throughout app\n• NEW: Hero blur transition at bottom for smooth content transition\n• FIXED: Delete/Remove button now works for games opened from any tab\n• FIXED: Delete alert uses correct game reference\n• IMPROVED: All tabs now have consistent modal presentation",
+                    "date": "2024-12-28T21:29:00-00:00",
+                    "localizedDescription": "COMPLETE Sheet Unification & UI Polish\n\n• ALL VIEWS now use sheet presentation (pull-to-dismiss everywhere)\n• Library: Completed, Dropped, Favorites, All Games - all sheets\n• Custom Lists, Smart Lists, Global Search - all sheets\n• Playing & Backlog tabs - sheets\n• NEW: iOS 26 liquid glass X button\n• NEW: Hero blur transition at bottom\n• FIXED: Delete/Remove works from any tab\n• No more Dynamic Island clipping",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.8/Played.ipa",
                     "size": 1000000
                 },
