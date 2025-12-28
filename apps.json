@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.3",
+                    "date": "2024-12-28T17:00:00-00:00",
+                    "localizedDescription": "UI & Steam Fixes\n\n• Fixed Steam 'data couldn't be read' error with proper error handling\n• Fixed Game Detail header overflow issue\n• Smart Lists now appear below Library and Lists sections\n• AI button now available on all tabs (Discover, Backlog, Playing)\n• New conversational AI interface (ChatGPT-like)\n• Improved Steam error messages",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.3/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.2",
                     "date": "2024-12-28T16:15:00-00:00",
                     "localizedDescription": "AI Features & Bug Fixes\n\n• Smart Lists: AI-generated dynamic lists like 'Games to Finish', 'Highly Rated Backlog'\n• AI Commands: Tell the app what to do with natural language\n• Enhanced Statistics: Completion rate, favorite genre, average rating insights\n• Fixed IGDB 'Invalid Response' error\n• Fixed Steam Reviews parsing\n• Fixed Game Details layout width",
