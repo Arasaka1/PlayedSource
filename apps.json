@@ -12,16 +12,23 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.1",
+                    "date": "2024-12-28T15:55:00-00:00",
+                    "localizedDescription": "Bug Fixes\n\n• Fixed IGDB 'Invalid Response' error on Discover page\n• Fixed Steam Reviews 'data couldn't be read' error\n• Reduced blur intensity on game detail header\n• Improved layout for game title display\n• Better error messages for API issues",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.1/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.0",
                     "date": "2024-12-28T12:30:00-00:00",
-                    "localizedDescription": "Game Details Improvements\\n\\n• Synced UI: Discover and Library now have identical game details\\n• Premium Steam Reviews: Summary card, emoji ratings, review tabs\\n• Manual Steam ID: Enter Steam App IDs manually for debugging\\n• Hero Images: Fixed screenshot enlargement animation\\n• Haptic Feedback: Tactile feedback throughout the app\\n• Bug Fixes: Re-add game after removal, removed Paused from add picker",
+                    "localizedDescription": "Game Details Improvements\n\n• Synced UI: Discover and Library now have identical game details\n• Premium Steam Reviews: Summary card, emoji ratings, review tabs\n• Manual Steam ID: Enter Steam App IDs manually for debugging\n• Hero Images: Fixed screenshot enlargement animation\n• Haptic Feedback: Tactile feedback throughout the app\n• Bug Fixes: Re-add game after removal, removed Paused from add picker",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.0/Played.ipa",
                     "size": 1000000
                 },
                 {
                     "version": "1.5.2",
                     "date": "2024-12-28T11:25:00-00:00",
-                    "localizedDescription": "iOS 26 Full Compliance\\n\\n• Observable: Migrated all services from Combine to Observation framework\\n• Liquid Glass: Updated to .glassEffect() for iOS 26 design\\n• Navigation: Migrated all views to FlowStack and LiquidList\\n• Import UI: Real-time progress with game count and IGDB lookup\\n• Performance improvements and code modernization",
+                    "localizedDescription": "iOS 26 Full Compliance\n\n• Observable: Migrated all services from Combine to Observation framework\n• Liquid Glass: Updated to .glassEffect() for iOS 26 design\n• Navigation: Migrated all views to FlowStack and LiquidList\n• Import UI: Real-time progress with game count and IGDB lookup\n• Performance improvements and code modernization",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.5.2/Played.ipa",
                     "size": 1000000
                 },
