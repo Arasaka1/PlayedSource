@@ -7,10 +7,17 @@
             "bundleIdentifier": "com.played.app",
             "developerName": "Arasaka",
             "subtitle": "Track your gaming journey",
-            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync\n• Steam reviews with ratings",
+            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync\n• Steam reviews with ratings\n• Smart Lists powered by AI\n• Conversational AI commands",
             "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
             "tintColor": "#6366F1",
             "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2024-12-28T16:15:00-00:00",
+                    "localizedDescription": "AI Features & Bug Fixes\n\n• Smart Lists: AI-generated dynamic lists like 'Games to Finish', 'Highly Rated Backlog'\n• AI Commands: Tell the app what to do with natural language\n• Enhanced Statistics: Completion rate, favorite genre, average rating insights\n• Fixed IGDB 'Invalid Response' error\n• Fixed Steam Reviews parsing\n• Fixed Game Details layout width",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.2/Played.ipa",
+                    "size": 1000000
+                },
                 {
                     "version": "1.6.1",
                     "date": "2024-12-28T15:55:00-00:00",
