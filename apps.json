@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.6",
+                    "date": "2024-12-28T20:20:00-00:00",
+                    "localizedDescription": "Unified Game Details & Critical Fixes\n\n• NEW: Unified GameDetailSheet for Library & Discover views\n• FIXED: Screenshot fullscreen showing only blur (root cause: race condition)\n• FIXED: Hero header now extends under status bar\n• IMPROVED: IGDB time-to-beat data (official API) with HLTB fallback\n• IMPROVED: Single AsyncImage prevents blur/image racing",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.6/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.5",
                     "date": "2024-12-28T19:00:00-00:00",
                     "localizedDescription": "Critical Fixes & UI Restoration\n\n• Fixed: Restored 'Add to Library' buttons in Discover view\n• Fixed: Steam 'Invalid App ID' error (improved data resilience)\n• Fixed: HLTB search not working (updated request format)\n• Improved: Hero animation resilience\n• UI: Integrated status controls in hero header",
