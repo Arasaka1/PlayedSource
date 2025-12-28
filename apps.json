@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.8",
+                    "date": "2024-12-28T21:24:00-00:00",
+                    "localizedDescription": "Sheet Presentation & UI Polish\n\n• UNIFIED: Playing & Backlog now use sheet presentation (like Discover)\n• NEW: iOS 26 liquid glass X button throughout app\n• NEW: Hero blur transition at bottom for smooth content transition\n• FIXED: Delete/Remove button now works for games opened from any tab\n• FIXED: Delete alert uses correct game reference\n• IMPROVED: All tabs now have consistent modal presentation",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.8/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.7",
                     "date": "2024-12-28T21:00:00-00:00",
                     "localizedDescription": "UNIFIED Views & Steam Improvements\n\n• FULLY UNIFIED: Library & Discover games now use identical controls\n• FIXED: Rating now works for library games opened from Discover\n• FIXED: Status pill now clickable in Discover (same as Library)\n• FIXED: Unreleased games auto-detected (GTA 6 bug)\n• FIXED: IGDB time_to_beat field (was game_time_to_beat)\n• IMPROVED: Steam app list with 60s timeout, caching, 3x retry\n• IMPROVED: Screenshot centering in fullscreen\n• IMPROVED: Sheet pull-to-dismiss restored",
