@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.4",
+                    "date": "2024-12-28T18:15:00-00:00",
+                    "localizedDescription": "Smarter AI & Visual Polish\n\n• Conversational AI: Greetings, recommendations, game search, time-aware responses\n• Hero Header: Clear image at top fading to blur, pull-down to dismiss\n• Steam Fix: Reviews now load properly (fixed type mismatch)\n• Synced Views: Library and Discover now behave identically\n• 11/10 Rating: Special rating option restored\n• AI Glass Effect: Liquid glass styling on input and button",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.4/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.3",
                     "date": "2024-12-28T17:00:00-00:00",
                     "localizedDescription": "UI & Steam Fixes\n\n• Fixed Steam 'data couldn't be read' error with proper error handling\n• Fixed Game Detail header overflow issue\n• Smart Lists now appear below Library and Lists sections\n• AI button now available on all tabs (Discover, Backlog, Playing)\n• New conversational AI interface (ChatGPT-like)\n• Improved Steam error messages",
