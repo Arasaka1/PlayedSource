@@ -7,10 +7,17 @@
             "bundleIdentifier": "com.played.app",
             "developerName": "Arasaka",
             "subtitle": "Track your gaming journey",
-            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync",
+            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync\n• Steam reviews with ratings",
             "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
             "tintColor": "#6366F1",
             "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2024-12-28T09:45:00-00:00",
+                    "localizedDescription": "Hero Animations & Enhanced Steam Reviews\n\n• Hero Animation: Screenshots expand from thumbnails and return to original position\n• Steam Reviews: Redesigned with sentiment scores, filter tabs, author badges, funny votes\n• Image Viewer: Beautiful blurred background and smooth dismiss animations\n• iOS 26 style glass effects throughout",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.5.0/Played.ipa",
+                    "size": 1000000
+                },
                 {
                     "version": "1.0",
                     "date": "2024-12-28T12:00:00-00:00",
