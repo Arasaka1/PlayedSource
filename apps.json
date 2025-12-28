@@ -14,7 +14,7 @@
                 {
                     "version": "1.6.8",
                     "date": "2024-12-28T21:29:00-00:00",
-                    "localizedDescription": "COMPLETE Sheet Unification & UI Polish\n\n• ALL VIEWS now use sheet presentation (pull-to-dismiss everywhere)\n• Library: Completed, Dropped, Favorites, All Games - all sheets\n• Custom Lists, Smart Lists, Global Search - all sheets\n• Playing & Backlog tabs - sheets\n• NEW: iOS 26 liquid glass X button\n• NEW: Hero blur transition at bottom\n• FIXED: Delete/Remove works from any tab\n• No more Dynamic Island clipping",
+                    "localizedDescription": "COMPLETE Sheet Unification & UI Polish\n\n• ALL VIEWS now use sheet presentation (pull-to-dismiss everywhere)\n• Library: Completed, Dropped, Favorites, All Games - all sheets\n• Custom Lists, Smart Lists, Global Search - all sheets\n• Playing & Backlog tabs - sheets\n• NEW: Standard native Close Button\n• FIXED: Time To Beat data loading (using correct IGDB endpoint)\n• NEW: Hero blur transition at bottom\n• FIXED: Delete/Remove works from any tab\n• No more Dynamic Island clipping",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.8/Played.ipa",
                     "size": 1000000
                 },
