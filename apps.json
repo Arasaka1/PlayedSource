@@ -28,7 +28,7 @@
                     "marketingVersion": "1.4.0",
                     "date": "2024-12-28",
                     "localizedDescription": "• Custom list integration with backups\n• Steam reviews fix\n• Auto cover refresh for imported games\n• Pull-to-refresh crack status in Backlog\n• iOS 26 liquid glass styling",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.4.0/Played.ipa",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/V1.4.0/Played.ipa",
                     "size": 5000000,
                     "minOSVersion": "17.0"
                 }
