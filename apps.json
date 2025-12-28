@@ -12,10 +12,10 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
-                    "version": "1.5.0",
-                    "date": "2024-12-28T09:45:00-00:00",
-                    "localizedDescription": "Hero Animations & Enhanced Steam Reviews\n\n• Hero Animation: Screenshots expand from thumbnails and return to original position\n• Steam Reviews: Redesigned with sentiment scores, filter tabs, author badges, funny votes\n• Image Viewer: Beautiful blurred background and smooth dismiss animations\n• iOS 26 style glass effects throughout",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.5.0/Played.ipa",
+                    "version": "1.5.1",
+                    "date": "2024-12-28T10:50:00-00:00",
+                    "localizedDescription": "Bug Fixes & Apple Intelligence\\n\\n• Apple Intelligence: Real game matching using iOS 26 FoundationModels\\n• Steam Reviews: Added retry button when Steam ID not found\\n• Rating UI: Fixed visual glitch when scrolling after rating\\n• Improved fuzzy matching for Steam and IGDB lookups",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.5.1/Played.ipa",
                     "size": 1000000
                 },
                 {
