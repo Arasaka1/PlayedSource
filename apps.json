@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.6.9",
+                    "date": "2024-12-28T21:55:00-00:00",
+                    "localizedDescription": "HOTFIX: Time To Beat UI Update\n\n• CHANGED: Time To Beat now defaults to 0h instead of hiding when data is unavailable\n• Includes all 1.6.8 fixes (Sheet Unification, IGDB Endpoint Fix, Native Close Button)",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.9/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.6.8",
                     "date": "2024-12-28T21:29:00-00:00",
                     "localizedDescription": "COMPLETE Sheet Unification & UI Polish\n\n• ALL VIEWS now use sheet presentation (pull-to-dismiss everywhere)\n• Library: Completed, Dropped, Favorites, All Games - all sheets\n• Custom Lists, Smart Lists, Global Search - all sheets\n• Playing & Backlog tabs - sheets\n• NEW: Standard native Close Button\n• FIXED: Time To Beat data loading (using correct IGDB endpoint)\n• NEW: Hero blur transition at bottom\n• FIXED: Delete/Remove works from any tab\n• No more Dynamic Island clipping",
