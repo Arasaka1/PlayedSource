@@ -18,6 +18,13 @@
             },
             "versions": [
                 {
+                    "version": "1.8.0",
+                    "date": "2024-12-29T19:25:00-00:00",
+                    "localizedDescription": "PlayedSync Connection Fix\n\n• FIX: IPv6 now falls back to hostname\n• FIX: Improved address resolution\n• NEW: Comprehensive debug logging\n• FIX: Removed duplicate code",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.0/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.7.9",
                     "date": "2024-12-29T19:05:00-00:00",
                     "localizedDescription": "IPv4 Connection Fix\n\n• FIX: Force IPv4 connection for URL compatibility\n• FIX: Skip IPv6 addresses that break URL parsing\n• Declared all permissions in AltStore source",
