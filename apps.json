@@ -18,6 +18,13 @@
             },
             "versions": [
                 {
+                    "version": "1.8.2",
+                    "date": "2024-12-29T19:55:00-00:00",
+                    "localizedDescription": "Live Activities & Widget Extension\n\n• NEW: Live Activity shows on Lock Screen\n• NEW: Dynamic Island support\n• FIX: Backlog games now move to Playing\n• FIX: Now Playing bar adapts when scrolling",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.2/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.8.1",
                     "date": "2024-12-29T19:35:00-00:00",
                     "localizedDescription": "IPv4 Interface Scope Fix\n\n• FIX: Strip %en0 interface scope from IPv4 addresses\n• 192.168.1.7%en0 → 192.168.1.7\n• This was causing Invalid URL errors",
