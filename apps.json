@@ -13,10 +13,10 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
-                    "version": "1.8.3",
+                    "version": "1.8.4",
                     "date": "2025-12-29",
-                    "localizedDescription": "Playtime Display & Process-Based Detection\n\n• NEW: Playtime shown in game details\n• FIX: Games only quit when process closes\n• FIX: Tab out all you want - tracking continues\n• FIX: Now Playing bar poster size fixed",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.3/Played.ipa",
+                    "localizedDescription": "Live Activities Fixed\n\n• FIX: Widget Extension properly configured\n• FIX: NowPlayingAttributes shared correctly\n• FIX: Process-based game detection\n• FIX: Now Playing bar poster size",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.4/Played.ipa",
                     "size": 1000000
                 }
             ]
