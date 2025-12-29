@@ -1,189 +1,23 @@
 {
     "name": "Played Apps",
     "identifier": "com.played.source",
+    "sourceURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/apps.json",
     "apps": [
         {
             "name": "Played",
             "bundleIdentifier": "com.played.app",
             "developerName": "Arasaka",
             "subtitle": "Track your gaming journey",
-            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.\n\nFeatures:\n• Search and add games from IGDB database\n• Track playing, completed, and backlog games\n• See crack status for games\n• Create custom game lists\n• Export/Import with CSV\n• Google Drive backup & sync\n• Steam reviews with ratings\n• Smart Lists powered by AI\n• Conversational AI commands",
+            "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.",
             "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
             "tintColor": "#6366F1",
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": {
-                    "NSLocalNetworkUsageDescription": "Played uses your local network to discover and connect to the PlayedSync server running on your PC for automatic game detection."
-                }
-            },
             "versions": [
                 {
                     "version": "1.8.3",
-                    "date": "2024-12-29T20:20:00-00:00",
-                    "localizedDescription": "Playtime Display & Stability Fixes\n\n• NEW: Playtime shown in game details\n• FIX: Live Activities properly embedded\n• FIX: 30-second grace period for tab-outs\n• Games won't quit when briefly tabbing out",
+                    "date": "2025-12-29",
+                    "localizedDescription": "Playtime Display & Process-Based Detection\n\n• NEW: Playtime shown in game details\n• FIX: Games only quit when process closes\n• FIX: Tab out all you want - tracking continues\n• FIX: Now Playing bar poster size fixed",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.3/Played.ipa",
                     "size": 1000000
-                },
-                {
-                    "version": "1.8.2",
-                    "date": "2024-12-29T19:55:00-00:00",
-                    "localizedDescription": "Live Activities & Widget Extension\n\n• NEW: Live Activity shows on Lock Screen\n• NEW: Dynamic Island support\n• FIX: Backlog games now move to Playing\n• FIX: Now Playing bar adapts when scrolling",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.2/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.8.1",
-                    "date": "2024-12-29T19:35:00-00:00",
-                    "localizedDescription": "IPv4 Interface Scope Fix\n\n• FIX: Strip %en0 interface scope from IPv4 addresses\n• 192.168.1.7%en0 → 192.168.1.7\n• This was causing Invalid URL errors",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.1/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.8.0",
-                    "date": "2024-12-29T19:25:00-00:00",
-                    "localizedDescription": "PlayedSync Connection Fix\n\n• FIX: IPv6 now falls back to hostname\n• FIX: Improved address resolution\n• NEW: Comprehensive debug logging\n• FIX: Removed duplicate code",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.0/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.9",
-                    "date": "2024-12-29T19:05:00-00:00",
-                    "localizedDescription": "IPv4 Connection Fix\n\n• FIX: Force IPv4 connection for URL compatibility\n• FIX: Skip IPv6 addresses that break URL parsing\n• Declared all permissions in AltStore source",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.9/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.8",
-                    "date": "2024-12-29T18:55:00-00:00",
-                    "localizedDescription": "Debug Logging for PlayedSync\n\n• NEW: In-app debug log in Settings\n• Expand 'Debug Log' in PC Sync section\n• Shows real-time connection status\n• Helps diagnose detection issues",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.8/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.7",
-                    "date": "2024-12-29T18:30:00-00:00",
-                    "localizedDescription": "PlayedSync Detection Fix\n\n• FIX: Game detection now works properly\n• FIX: SwiftUI @Observable observation bug\n• FIX: Singleton state sharing between views\n• FIX: Polling no longer stops unexpectedly\n• FIX: Now Playing bar visibility on iOS 26.1+\n• Added debug logging for troubleshooting",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.7/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.6",
-                    "date": "2024-12-29T18:00:00-00:00",
-                    "localizedDescription": "PlayedSync Improvements & Live Activities\n\n• FIX: Local network permissions for PC detection\n• NEW: Live Activity shows Now Playing on Lock Screen\n• NEW: Playtime tracking stored in game data\n• NEW: Playtime included in backups and CSV export\n• FIX: Now Playing bar only shows during gameplay\n• FIX: Improved Bonjour service discovery\n• FIX: Expanded ignore list (400+ non-game apps)",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.6/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.5",
-                    "date": "2024-12-29T16:45:00-00:00",
-                    "localizedDescription": "PlayedSync - PC Game Detection\n\n• NEW: PlayedSync server for Windows PC\n• NEW: 'Now Playing' bar shows current PC game\n• NEW: Auto-detects games from Steam, Epic, GOG\n• NEW: Moves Paused/Dropped games to Playing when launched\n• NEW: Adds unknown games to Playing library\n• NEW: Tracks playtime per session\n• NEW: PlayedSync settings section with connection status\n• FIXED: Crack status detection now validates game titles\n• FIXED: Games without release date now default to Unreleased\n• NEW: Offline image caching for covers",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.5/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.4",
-                    "date": "2024-12-29T12:30:00-00:00",
-                    "localizedDescription": "UX Improvements & Backup Fixes\n\n• NEW: Instant add/remove games from lists (no extra button)\n• IMPROVED: Separated plus/done buttons in list editing\n• IMPROVED: Smoother screenshot zoom and pan gestures\n• IMPROVED: Better dismiss animation for image viewer\n• FIXED: List ranking now starts at #1 correctly\n• FIXED: Google/local backup now includes all fields (crackDate, hltbId)\n• FIXED: 'Up to date' message when sync has no changes\n• NEW: Tracked status for games only in lists/notes",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.4/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.3",
-                    "date": "2024-12-29T11:15:00-00:00",
-                    "localizedDescription": "Lists & Search Improvements\n\n• FIXED: List numbering now correct after reordering\n• NEW: Add games from IGDB to lists (not just local library)\n• NEW: Library/IGDB tabs in Add to List sheet\n• IMPROVED: Blue checkmark close buttons throughout\n• IMPROVED: Hero blur transition with systemBackground gradient\n• IMPROVED: Steam reviews container sizing",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.3/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.7.0",
-                    "date": "2024-12-28T22:15:00-00:00",
-                    "localizedDescription": "MAJOR REFACTOR & CLEANUP\n\n• CODE QUALITY: Massive internal cleanup (SonarCloud code smells fixed)\n• FIX: Merged 7+ files with nested logic for better stability\n• FIX: Refactored AI logic for cleaner execution\n• Same features as 1.6.9, but cleaner engine under the hood.",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.0/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.9",
-                    "date": "2024-12-28T21:55:00-00:00",
-                    "localizedDescription": "HOTFIX: Time To Beat UI Update\n\n• CHANGED: Time To Beat now defaults to 0h instead of hiding when data is unavailable\n• Includes all 1.6.8 fixes (Sheet Unification, IGDB Endpoint Fix, Native Close Button)",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.9/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.8",
-                    "date": "2024-12-28T21:29:00-00:00",
-                    "localizedDescription": "COMPLETE Sheet Unification & UI Polish\n\n• ALL VIEWS now use sheet presentation (pull-to-dismiss everywhere)\n• Library: Completed, Dropped, Favorites, All Games - all sheets\n• Custom Lists, Smart Lists, Global Search - all sheets\n• Playing & Backlog tabs - sheets\n• NEW: Standard native Close Button\n• FIXED: Time To Beat data loading (using correct IGDB endpoint)\n• NEW: Hero blur transition at bottom\n• FIXED: Delete/Remove works from any tab\n• No more Dynamic Island clipping",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.8/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.7",
-                    "date": "2024-12-28T21:00:00-00:00",
-                    "localizedDescription": "UNIFIED Views & Steam Improvements\n\n• FULLY UNIFIED: Library & Discover games now use identical controls\n• FIXED: Rating now works for library games opened from Discover\n• FIXED: Status pill now clickable in Discover (same as Library)\n• FIXED: Unreleased games auto-detected (GTA 6 bug)\n• FIXED: IGDB time_to_beat field (was game_time_to_beat)\n• IMPROVED: Steam app list with 60s timeout, caching, 3x retry\n• IMPROVED: Screenshot centering in fullscreen\n• IMPROVED: Sheet pull-to-dismiss restored",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.7/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.6",
-                    "date": "2024-12-28T20:20:00-00:00",
-                    "localizedDescription": "Unified Game Details & Critical Fixes\n\n• NEW: Unified GameDetailSheet for Library & Discover views\n• FIXED: Screenshot fullscreen showing only blur (root cause: race condition)\n• FIXED: Hero header now extends under status bar\n• IMPROVED: IGDB time-to-beat data (official API) with HLTB fallback\n• IMPROVED: Single AsyncImage prevents blur/image racing",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.6/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.5",
-                    "date": "2024-12-28T19:00:00-00:00",
-                    "localizedDescription": "Critical Fixes & UI Restoration\n\n• Fixed: Restored 'Add to Library' buttons in Discover view\n• Fixed: Steam 'Invalid App ID' error (improved data resilience)\n• Fixed: HLTB search not working (updated request format)\n• Improved: Hero animation resilience\n• UI: Integrated status controls in hero header",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.5/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.4",
-                    "date": "2024-12-28T18:15:00-00:00",
-                    "localizedDescription": "Smarter AI & Visual Polish\n\n• Conversational AI: Greetings, recommendations, game search, time-aware responses\n• Hero Header: Clear image at top fading to blur, pull-down to dismiss\n• Steam Fix: Reviews now load properly (fixed type mismatch)\n• Synced Views: Library and Discover now behave identically\n• 11/10 Rating: Special rating option restored\n• AI Glass Effect: Liquid glass styling on input and button",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.4/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.3",
-                    "date": "2024-12-28T17:00:00-00:00",
-                    "localizedDescription": "UI & Steam Fixes\n\n• Fixed Steam 'data couldn't be read' error with proper error handling\n• Fixed Game Detail header overflow issue\n• Smart Lists now appear below Library and Lists sections\n• AI button now available on all tabs (Discover, Backlog, Playing)\n• New conversational AI interface (ChatGPT-like)\n• Improved Steam error messages",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.3/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.2",
-                    "date": "2024-12-28T16:15:00-00:00",
-                    "localizedDescription": "AI Features & Bug Fixes\n\n• Smart Lists: AI-generated dynamic lists like 'Games to Finish', 'Highly Rated Backlog'\n• AI Commands: Tell the app what to do with natural language\n• Enhanced Statistics: Completion rate, favorite genre, average rating insights\n• Fixed IGDB 'Invalid Response' error\n• Fixed Steam Reviews parsing\n• Fixed Game Details layout width",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.2/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.1",
-                    "date": "2024-12-28T15:55:00-00:00",
-                    "localizedDescription": "Bug Fixes\n\n• Fixed IGDB 'Invalid Response' error on Discover page\n• Fixed Steam Reviews 'data couldn't be read' error\n• Reduced blur intensity on game detail header\n• Improved layout for game title display\n• Better error messages for API issues",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.1/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.6.0",
-                    "date": "2024-12-28T12:30:00-00:00",
-                    "localizedDescription": "Game Details Improvements\n\n• Synced UI: Discover and Library now have identical game details\n• Premium Steam Reviews: Summary card, emoji ratings, review tabs\n• Manual Steam ID: Enter Steam App IDs manually for debugging\n• Hero Images: Fixed screenshot enlargement animation\n• Haptic Feedback: Tactile feedback throughout the app\n• Bug Fixes: Re-add game after removal, removed Paused from add picker",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.6.0/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.5.2",
-                    "date": "2024-12-28T11:25:00-00:00",
-                    "localizedDescription": "iOS 26 Full Compliance\n\n• Observable: Migrated all services from Combine to Observation framework\n• Liquid Glass: Updated to .glassEffect() for iOS 26 design\n• Navigation: Migrated all views to FlowStack and LiquidList\n• Import UI: Real-time progress with game count and IGDB lookup\n• Performance improvements and code modernization",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.5.2/Played.ipa",
-                    "size": 1000000
-                },
-                {
-                    "version": "1.0",
-                    "date": "2024-12-28T12:00:00-00:00",
-                    "localizedDescription": "Initial release with custom list integration, Steam reviews fix, auto cover refresh, and pull-to-refresh crack status.",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.4.0/Played.ipa",
-                    "size": 988117
                 }
             ]
         }
