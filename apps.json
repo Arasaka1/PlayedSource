@@ -12,10 +12,10 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
-                    "version": "1.7.2",
-                    "date": "2024-12-29T10:30:00-00:00",
-                    "localizedDescription": "Fixes & Polish\n\n• FIXED: Steam reviews JSON parsing (weighted_vote_score as Double)\n• FIXED: Games flickering during list reorder\n• IMPROVED: List edit mode now toggleable (Edit/Done buttons)\n• IMPROVED: Close button repositioned per Apple HIG\n• Includes all 1.7.1 features (liquid glass, DI, Steam ID lookup)",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.2/Played.ipa",
+                    "version": "1.7.3",
+                    "date": "2024-12-29T11:15:00-00:00",
+                    "localizedDescription": "Lists & Search Improvements\n\n• FIXED: List numbering now correct after reordering\n• NEW: Add games from IGDB to lists (not just local library)\n• NEW: Library/IGDB tabs in Add to List sheet\n• IMPROVED: Blue checkmark close buttons throughout\n• IMPROVED: Hero blur transition with systemBackground gradient\n• IMPROVED: Steam reviews container sizing",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.3/Played.ipa",
                     "size": 1000000
                 },
                 {
