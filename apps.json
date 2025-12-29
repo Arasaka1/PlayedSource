@@ -11,6 +11,13 @@
             "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.",
             "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
             "tintColor": "#6366F1",
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSLocalNetworkUsageDescription": "Played uses the local network to discover and connect with PlayedSync on your PC to track gaming sessions.",
+                    "NSCameraUsageDescription": "Played may use the camera for future features."
+                }
+            },
             "versions": [
                 {
                     "version": "1.8.7",
