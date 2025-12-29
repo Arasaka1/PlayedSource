@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.7.6",
+                    "date": "2024-12-29T18:00:00-00:00",
+                    "localizedDescription": "PlayedSync Improvements & Live Activities\n\n• FIX: Local network permissions for PC detection\n• NEW: Live Activity shows Now Playing on Lock Screen\n• NEW: Playtime tracking stored in game data\n• NEW: Playtime included in backups and CSV export\n• FIX: Now Playing bar only shows during gameplay\n• FIX: Improved Bonjour service discovery\n• FIX: Expanded ignore list (400+ non-game apps)",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.6/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.7.5",
                     "date": "2024-12-29T16:45:00-00:00",
                     "localizedDescription": "PlayedSync - PC Game Detection\n\n• NEW: PlayedSync server for Windows PC\n• NEW: 'Now Playing' bar shows current PC game\n• NEW: Auto-detects games from Steam, Epic, GOG\n• NEW: Moves Paused/Dropped games to Playing when launched\n• NEW: Adds unknown games to Playing library\n• NEW: Tracks playtime per session\n• NEW: PlayedSync settings section with connection status\n• FIXED: Crack status detection now validates game titles\n• FIXED: Games without release date now default to Unreleased\n• NEW: Offline image caching for covers",
