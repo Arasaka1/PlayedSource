@@ -12,10 +12,10 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
-                    "version": "1.7.1",
-                    "date": "2024-12-29T10:00:00-00:00",
-                    "localizedDescription": "UI & Architecture Improvements\n\n• NEW: iOS 26 liquid glass checkmark close button\n• NEW: Reorderable ranked lists (drag to change rankings)\n• FIXED: Steam reviews now work (API type filter fix)\n• FIXED: Steam JSON parsing (deck_playtime_at_review)\n• IMPROVED: Dependency injection across all services\n• IMPROVED: Ranked lists preserve order correctly",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.1/Played.ipa",
+                    "version": "1.7.2",
+                    "date": "2024-12-29T10:30:00-00:00",
+                    "localizedDescription": "Fixes & Polish\n\n• FIXED: Steam reviews JSON parsing (weighted_vote_score as Double)\n• FIXED: Games flickering during list reorder\n• IMPROVED: List edit mode now toggleable (Edit/Done buttons)\n• IMPROVED: Close button repositioned per Apple HIG\n• Includes all 1.7.1 features (liquid glass, DI, Steam ID lookup)",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.2/Played.ipa",
                     "size": 1000000
                 },
                 {
