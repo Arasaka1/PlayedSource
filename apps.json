@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.8.7",
+                    "version": "1.8.8",
                     "date": "2025-12-29",
-                    "localizedDescription": "Live Activities Fixed\n\n• FIX: Timer now auto-updates correctly\n• FIX: Uses Text(timerInterval:countsDown:) for proper countdown\n• FIX: Dynamic Island layout with large poster and timer\n• FIX: Privacy manifest added",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.7/Played.ipa",
+                    "localizedDescription": "Live Activities Improved\n\n• FIX: Dynamic Island compact view spacing\n• FIX: Activity starts immediately without waiting for cover\n• FIX: Auto-updating timer\n• FIX: Removed invalid entitlements reference",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.8/Played.ipa",
                     "size": 1000000
                 }
             ]
