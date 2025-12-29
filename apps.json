@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.7.1",
+                    "date": "2024-12-29T10:00:00-00:00",
+                    "localizedDescription": "UI & Architecture Improvements\n\n• NEW: iOS 26 liquid glass checkmark close button\n• NEW: Reorderable ranked lists (drag to change rankings)\n• FIXED: Steam reviews now work (API type filter fix)\n• FIXED: Steam JSON parsing (deck_playtime_at_review)\n• IMPROVED: Dependency injection across all services\n• IMPROVED: Ranked lists preserve order correctly",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.1/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.7.0",
                     "date": "2024-12-28T22:15:00-00:00",
                     "localizedDescription": "MAJOR REFACTOR & CLEANUP\n\n• CODE QUALITY: Massive internal cleanup (SonarCloud code smells fixed)\n• FIX: Merged 7+ files with nested logic for better stability\n• FIX: Refactored AI logic for cleaner execution\n• Same features as 1.6.9, but cleaner engine under the hood.",
