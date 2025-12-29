@@ -15,7 +15,7 @@
                 {
                     "version": "1.8.4",
                     "date": "2025-12-29",
-                    "localizedDescription": "Live Activities Fixed\n\n• FIX: Widget Extension properly configured\n• FIX: NowPlayingAttributes shared correctly\n• FIX: Process-based game detection\n• FIX: Now Playing bar poster size",
+                    "localizedDescription": "Live Activities & Stability Fixes\n\n• NEW: Live Activities with Widget Extension\n• NEW: Playtime display in game details\n• FIX: Process-based game detection\n• FIX: Widget Info.plist properly configured",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.4/Played.ipa",
                     "size": 1000000
                 }
