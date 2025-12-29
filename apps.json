@@ -12,6 +12,13 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
+                    "version": "1.7.8",
+                    "date": "2024-12-29T18:55:00-00:00",
+                    "localizedDescription": "Debug Logging for PlayedSync\n\n• NEW: In-app debug log in Settings\n• Expand 'Debug Log' in PC Sync section\n• Shows real-time connection status\n• Helps diagnose detection issues",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.7.8/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.7.7",
                     "date": "2024-12-29T18:30:00-00:00",
                     "localizedDescription": "PlayedSync Detection Fix\n\n• FIX: Game detection now works properly\n• FIX: SwiftUI @Observable observation bug\n• FIX: Singleton state sharing between views\n• FIX: Polling no longer stops unexpectedly\n• FIX: Now Playing bar visibility on iOS 26.1+\n• Added debug logging for troubleshooting",
