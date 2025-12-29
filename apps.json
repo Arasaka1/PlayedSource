@@ -13,10 +13,10 @@
             "tintColor": "#6366F1",
             "versions": [
                 {
-                    "version": "1.8.6",
+                    "version": "1.8.7",
                     "date": "2025-12-29",
-                    "localizedDescription": "Live Activities with Cover Art (No Paid Account Required)\n\n• NEW: Game cover art in Dynamic Island\n• FIX: Works with free developer account\n• FIX: Timer updates properly\n• FIX: Process-based game detection",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.6/Played.ipa",
+                    "localizedDescription": "Live Activities Fixed\n\n• FIX: Timer now auto-updates correctly\n• FIX: Uses Text(timerInterval:countsDown:) for proper countdown\n• FIX: Dynamic Island layout with large poster and timer\n• FIX: Privacy manifest added",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.7/Played.ipa",
                     "size": 1000000
                 }
             ]
