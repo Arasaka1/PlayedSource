@@ -18,6 +18,13 @@
             },
             "versions": [
                 {
+                    "version": "1.8.1",
+                    "date": "2024-12-29T19:35:00-00:00",
+                    "localizedDescription": "IPv4 Interface Scope Fix\n\n• FIX: Strip %en0 interface scope from IPv4 addresses\n• 192.168.1.7%en0 → 192.168.1.7\n• This was causing Invalid URL errors",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.1/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "1.8.0",
                     "date": "2024-12-29T19:25:00-00:00",
                     "localizedDescription": "PlayedSync Connection Fix\n\n• FIX: IPv6 now falls back to hostname\n• FIX: Improved address resolution\n• NEW: Comprehensive debug logging\n• FIX: Removed duplicate code",
