@@ -13,10 +13,7 @@
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
-                    "NSLocalNetworkUsageDescription": "Played uses your local network to discover and connect to the PlayedSync server running on your PC for automatic game detection.",
-                    "NSBonjourServices": [
-                        "_playedsync._tcp"
-                    ]
+                    "NSLocalNetworkUsageDescription": "Played uses your local network to discover and connect to the PlayedSync server running on your PC for automatic game detection."
                 }
             },
             "versions": [
@@ -160,11 +157,7 @@
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.4.0/Played.ipa",
                     "size": 988117
                 }
-            ],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": {}
-            }
+            ]
         }
     ],
     "news": []
