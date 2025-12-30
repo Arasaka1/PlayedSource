@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.8.9",
+                    "version": "1.9.0",
                     "date": "2025-12-30",
-                    "localizedDescription": "PlayedSync v1.4 Compatibility\n\n• Optimized PlayedSync desktop app\n• Memory usage improvements\n• Custom system tray implementation",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.9/Played.ipa",
+                    "localizedDescription": "Live Activity Improvements\n\n• FIX: Cover image quality improved (larger thumbnail, better compression)\n• FIX: Dynamic Island compact view layout\n• FIX: PlayedSync exe now bundles network dependencies correctly",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.0/Played.ipa",
                     "size": 1000000
                 }
             ]
