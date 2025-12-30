@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.2",
+                    "version": "1.9.3",
                     "date": "2025-12-31",
-                    "localizedDescription": "Live Activity UI Improvements\\n\\n• Compact: Timer shown instead of cutoff game name\\n• Expanded: Big white controller + timer, game name at bottom\\n• Lock Screen: Clean white controller on black (no gray box)",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.2/Played.ipa",
+                    "localizedDescription": "Auto-Updating Timer\\n\\n• Timer now updates automatically every second\\n• No need to reopen app for timer to update\\n• Uses iOS native timer for smooth updates",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.3/Played.ipa",
                     "size": 1000000
                 }
             ]
