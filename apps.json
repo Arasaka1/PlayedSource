@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.8.8",
-                    "date": "2025-12-29",
-                    "localizedDescription": "Live Activities Improved\n\n• FIX: Dynamic Island compact view spacing\n• FIX: Activity starts immediately without waiting for cover\n• FIX: Auto-updating timer\n• FIX: Removed invalid entitlements reference",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.8/Played.ipa",
+                    "version": "1.8.9",
+                    "date": "2025-12-30",
+                    "localizedDescription": "PlayedSync v1.4 Compatibility\n\n• Optimized PlayedSync desktop app\n• Memory usage improvements\n• Custom system tray implementation",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.8.9/Played.ipa",
                     "size": 1000000
                 }
             ]
