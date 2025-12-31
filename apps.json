@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.9",
+                    "version": "2.0.0",
                     "date": "2025-12-31",
-                    "localizedDescription": "Now Playing Bar Fix\\n\\n• Fixed Now Playing bar glass effect with explicit shape\\n• Fixed double-circle on checkmark buttons\\n• 30-second debounce on sync toasts\\n• Swift 6 strict concurrency compliance",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.9/Played.ipa",
+                    "localizedDescription": "iOS 26 Liquid Glass Update\\n\\n• Restructured glass checkmark buttons\\n• Now Playing bar uses system glass\\n• 30-second sync debounce\\n• Swift 6 strict concurrency",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.0/Played.ipa",
                     "size": 1000000
                 }
             ]
