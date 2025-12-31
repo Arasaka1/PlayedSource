@@ -20,6 +20,13 @@
             },
             "versions": [
                 {
+                    "version": "2.0.2",
+                    "date": "2025-12-31",
+                    "localizedDescription": "✨ Liquid Glass Polish\\n\\n• All buttons now use proper iOS 26 GlassButtonStyle\\n• Springy bounce animations on all close/confirm buttons\\n• Consistent liquid glass look across the entire app",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.2/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "2.0.1",
                     "date": "2025-12-31",
                     "localizedDescription": "🔧 Bug Fixes & Polish\\n\\n• Fixed AI Chat not using Foundation Models (was using fallback)\\n• AI Chat now properly uses smartChat with conversation memory\\n• Fixed Tool protocol conformance for Swift 6\\n• Fixed AppIntents parameter types for Siri shortcuts\\n• Unified close button style across all views\\n• Minor UI improvements",
