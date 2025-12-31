@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.6",
+                    "version": "1.9.7",
                     "date": "2025-12-31",
-                    "localizedDescription": "Cloud Sync Improvements\\n\\n• Auto-configure cloud sync from PlayedSync server\\n• Fixed duplicate Live Activities\\n• Fixed frozen EXE config path issues\\n• Added Cloud Sync settings section\\n• Improved sync reliability",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.6/Played.ipa",
+                    "localizedDescription": "Local Sync with Liquid Glass\\n\\n• Simplified sync - no cloud services needed\\n• Syncs directly from PlayedSync server\\n• Beautiful iOS 26 Liquid Glass toast\\n• Game cover in sync notification\\n• Removed Supabase dependency",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.7/Played.ipa",
                     "size": 1000000
                 }
             ]
