@@ -22,7 +22,7 @@
                 {
                     "version": "2.0.0",
                     "date": "2025-12-31",
-                    "localizedDescription": "iOS 26 Liquid Glass Update\\n\\n• Restructured glass checkmark buttons\\n• Now Playing bar uses system glass\\n• 30-second sync debounce\\n• Swift 6 strict concurrency",
+                    "localizedDescription": "🤖 Massive AI Upgrade (iOS 26)\\n\\n• Smart AI Chat with conversation memory\\n• Tool calling - AI can access library data\\n• Streaming responses with typing animation\\n• AI-powered game recommendations\\n• Creative smart list generation\\n• Siri shortcuts: 'What should I play?'\\n\\n✨ Also includes:\\n• Liquid Glass UI updates\\n• Swift 6 strict concurrency\\n• Improved error handling",
                     "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.0/Played.ipa",
                     "size": 1000000
                 }
