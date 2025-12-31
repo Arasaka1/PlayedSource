@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.5",
+                    "version": "1.9.6",
                     "date": "2025-12-31",
-                    "localizedDescription": "Cloud Sync & Background Refresh\\n\\n• Supabase cloud backup for game sessions\\n• Background app refresh for status polling\\n• ntfy.sh push notifications when games start\\n• Liquid glass sync toast UI\\n• URL scheme for deep linking (played://)",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.5/Played.ipa",
+                    "localizedDescription": "Cloud Sync Improvements\\n\\n• Auto-configure cloud sync from PlayedSync server\\n• Fixed duplicate Live Activities\\n• Fixed frozen EXE config path issues\\n• Added Cloud Sync settings section\\n• Improved sync reliability",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.6/Played.ipa",
                     "size": 1000000
                 }
             ]
