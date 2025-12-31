@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.7",
+                    "version": "1.9.8",
                     "date": "2025-12-31",
-                    "localizedDescription": "Local Sync with Liquid Glass\\n\\n• Simplified sync - no cloud services needed\\n• Syncs directly from PlayedSync server\\n• Beautiful iOS 26 Liquid Glass toast\\n• Shows 'Currently playing' when opening app mid-session\\n• Pulsing green indicator for live sessions",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.7/Played.ipa",
+                    "localizedDescription": "Liquid Glass & Polish\\n\\n• All glass effects now use .clear for transparency\\n• 30-second debounce on sync toasts\\n• Shows 'Currently playing' when opening mid-session\\n• Improved code quality for Swift 6 concurrency",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.8/Played.ipa",
                     "size": 1000000
                 }
             ]
