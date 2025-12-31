@@ -20,10 +20,10 @@
             },
             "versions": [
                 {
-                    "version": "1.9.4",
+                    "version": "1.9.5",
                     "date": "2025-12-31",
-                    "localizedDescription": "Dynamic Island Fix\\n\\n• Fixed compact view black space issue\\n• Compact now shows green status dot\\n• Timer still works in expanded and lock screen",
-                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.4/Played.ipa",
+                    "localizedDescription": "Cloud Sync & Background Refresh\\n\\n• Supabase cloud backup for game sessions\\n• Background app refresh for status polling\\n• ntfy.sh push notifications when games start\\n• Liquid glass sync toast UI\\n• URL scheme for deep linking (played://)",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v1.9.5/Played.ipa",
                     "size": 1000000
                 }
             ]
