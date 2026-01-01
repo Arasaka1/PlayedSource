@@ -20,6 +20,13 @@
             },
             "versions": [
                 {
+                    "version": "2.0.5",
+                    "date": "2026-01-01",
+                    "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed Alan Wake II crack status detection (Roman numerals now properly converted)\\n• Reverted hero animation that caused image display issues\\n• Improved PreDB search matching for games with sequel numbers",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.5/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "2.0.4",
                     "date": "2026-01-01",
                     "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed inaccurate list counts (stale UUIDs cleaned up)\\n• Tracked games now properly deleted when removed from all lists\\n• Screenshot gallery now has smooth hero zoom animation\\n• Various stability improvements",
