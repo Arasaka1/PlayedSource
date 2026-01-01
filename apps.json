@@ -20,6 +20,13 @@
             },
             "versions": [
                 {
+                    "version": "2.0.4",
+                    "date": "2026-01-01",
+                    "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed inaccurate list counts (stale UUIDs cleaned up)\\n• Tracked games now properly deleted when removed from all lists\\n• Screenshot gallery now has smooth hero zoom animation\\n• Various stability improvements",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.4/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "2.0.3",
                     "date": "2025-12-31",
                     "localizedDescription": "🔵 Circular Liquid Glass Buttons\\n\\n• Fixed buttons to be circular (not capsule)\\n• Blue checkmark tint restored\\n• Proper .buttonBorderShape(.circle) + .tint(.blue)\\n• Springy animations preserved",
