@@ -20,6 +20,13 @@
             },
             "versions": [
                 {
+                    "version": "2.0.7",
+                    "date": "2026-01-03",
+                    "localizedDescription": "🔄 Offline Sync Fix\\n\\n• Games played while app is offline now properly added to Playing\\n• Playtime minutes are now tracked and accumulated\\n• Fixed mid-game detection when opening app\\n• All game statuses properly handled",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.7/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "2.0.6",
                     "date": "2026-01-03",
                     "localizedDescription": "🔔 Custom Notifications (iOS)\\n\\n• Added support for Bark notifications\\n• Game covers now appear in notifications!\\n• Minor stability improvements",
