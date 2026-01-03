@@ -20,6 +20,13 @@
             },
             "versions": [
                 {
+                    "version": "2.0.6",
+                    "date": "2026-01-03",
+                    "localizedDescription": "🔔 Custom Notifications (iOS)\\n\\n• Added support for Bark notifications\\n• Game covers now appear in notifications!\\n• Minor stability improvements",
+                    "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.0.6/Played.ipa",
+                    "size": 1000000
+                },
+                {
                     "version": "2.0.5",
                     "date": "2026-01-01",
                     "localizedDescription": "🔧 Bug Fixes\\n\\n• Fixed Alan Wake II crack status detection (Roman numerals now properly converted)\\n• Reverted hero animation that caused image display issues\\n• Improved PreDB search matching for games with sequel numbers",
