@@ -23,7 +23,8 @@
           "version": "2.1.0",
           "date": "2026-10-16",
           "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.1.0/Played.ipa",
-          "size": 1803062
+          "size": 1803062,
+          "localizedDescription": "major bug fixes and AI overhaul"
         },
         {
           "version": "2.0.7",
