@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "2.8.0",
+          "date": "2026-10-21",
+          "localizedDescription": "chore(release): bump version to 2.8.0 (23)",
+          "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.8.0/Played.ipa",
+          "size": 2025506
+        },
+        {
           "version": "2.7.0",
           "date": "2026-10-18",
           "localizedDescription": "release: 2.7.0 (21) - AI assistant overhaul (context-window fix, full-library tool snapshot, 5 new tools, inline Siri-style confirmation card) + HLTB dead-direct-source removal (mirror primary, RAWG labeled fallback) + RAWG audit set (TTL cache, single-flight, forceRefresh, id stamping, cover-repair negative cache)",
