@@ -20,6 +20,13 @@
       },
       "versions": [
         {
+          "version": "2.8.1",
+          "date": "2026-10-21",
+          "localizedDescription": "chore(release): bump version to 2.8.1 (24)",
+          "downloadURL": "https://github.com/Arasaka1/PlayedSource/releases/download/v2.8.1/Played.ipa",
+          "size": 2024619
+        },
+        {
           "version": "2.8.0",
           "date": "2026-10-21",
           "localizedDescription": "chore(release): bump version to 2.8.0 (23)",
