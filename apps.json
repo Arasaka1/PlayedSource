@@ -1,21 +1,21 @@
 {
-  "name": "Played Apps",
+  "name": "Playd Apps",
   "identifier": "com.played.source",
   "sourceURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/apps.json",
   "apps": [
     {
-      "name": "Played",
+      "name": "Playd",
       "bundleIdentifier": "com.played.app",
       "developerName": "Arasaka",
       "subtitle": "Track your gaming journey",
-      "localizedDescription": "Played is your personal game tracker. Add games from IGDB, track what you're playing, manage your backlog, and sync with Google Drive.",
+      "localizedDescription": "Playd is your personal game tracker. Add games from RAWG, track what you're playing, manage your backlog, and sync with Google Drive.",
       "iconURL": "https://raw.githubusercontent.com/Arasaka1/PlayedSource/main/icon.png",
       "tintColor": "#6366F1",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Played uses the local network to discover and connect with PlayedSync on your PC to track gaming sessions.",
-          "NSCameraUsageDescription": "Played may use the camera for future features."
+          "NSLocalNetworkUsageDescription": "Playd uses the local network to discover and connect with PlayedSync on your PC to track gaming sessions.",
+          "NSCameraUsageDescription": "Playd may use the camera for future features."
         }
       },
       "versions": [
